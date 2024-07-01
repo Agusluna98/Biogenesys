@@ -55,7 +55,6 @@ Identificación de áreas críticas para la expansión de BIOGENESYS.
   <li><strong>🔢 NumPy:</strong> Para operaciones matemáticas y estadísticas.</li>
   <li><strong>📉 Matplotlib y Seaborn:</strong> Para la visualización de datos.</li>
   <li><strong>📊 Power BI/Tableau:</strong> Para el desarrollo de dashboards interactivos.</li>
-  <li><strong>🗄️ SQL:</strong> Para consultas y manipulación de bases de datos.</li>
   <li><strong>☁️ Google Drive:</strong> Para almacenamiento y acceso compartido a los datos.</li>
 </ul>
 
